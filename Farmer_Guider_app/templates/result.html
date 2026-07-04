@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <title>Crop Prediction Result</title>
+</head>
+<body>
+     {% if crop %}
+<div class="resultcontainer">
+    <h2>Crop Prediction Result</h2>
+    <p>Predicted Crop: <span>{{ crop }}</span></p>
+</div>
+{% endif %}
+
+{% if fertilizer %}
+<div class="resultcontainer">
+    <h2>Fertilizer Prediction Result</h2>
+    <p>Predicted Fertilizer: <span>{{ fertilizer }}</span></p>
+</div>
+{% endif %}
+</body>
+</html>
