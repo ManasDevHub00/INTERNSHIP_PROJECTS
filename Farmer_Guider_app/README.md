@@ -86,6 +86,7 @@ Farmer_Guider_app/
 # 🏗️ Project Architecture
 
 ```
+<img width="1361" height="898" alt="Image" src="https://github.com/user-attachments/assets/d4e1b237-b8ca-4d16-96bf-a1e002dec2bc" />
 
 ```
 
