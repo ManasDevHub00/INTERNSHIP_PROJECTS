@@ -203,6 +203,10 @@ The Loan Prediction System follows a Machine Learning pipeline where user inputs
 
 ## Architecture Diagram
 
+---
+
+<img width="1535" height="1024" alt="Image" src="https://github.com/user-attachments/assets/af8f6c7b-cfc0-4f09-9a4c-274f9bc49e6c" />
+
  
 
 ---
