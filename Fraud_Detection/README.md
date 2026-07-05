@@ -60,7 +60,7 @@ Fraud_Detection/
 ## 🏗️ Project Architecture Diagram
 ---
 
-
+<img width="1672" height="941" alt="Image" src="https://github.com/user-attachments/assets/b347c31f-7e0e-41fd-989c-897e9d5f3d03" />
 
 ---
 
